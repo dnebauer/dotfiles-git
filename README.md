@@ -1,4 +1,3 @@
-vcsh-git
-========
+# dotfiles-git
 
-Personal git configuration in a vcsh repository.
+Personal git configuration.
