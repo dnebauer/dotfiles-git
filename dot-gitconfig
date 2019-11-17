@@ -21,4 +21,4 @@
 [diff]
 	submodule = log
 [pull]
-	rebase = preserve
+	rebase = merges
